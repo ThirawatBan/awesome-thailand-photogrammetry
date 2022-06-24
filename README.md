@@ -9,7 +9,7 @@
 * หนังสือการสำรวจรังวัดด้วยภาพดิจิทัล_2021_PhisanChula
 
 ## ชุดข้อมูล (Dataset)
-* [UAV_Research-CU-SBR](https://github.com/phisan-chula/UAV_Research)                                                                                                    บันทึกข้อมูลด้วย DJI Matrice 300 RTK with P1 45MP บริเวณพื้นที่สนามทดสอบจีเอ็นเอสเอสและยูเอวีสำหรับงานแผนที่ (Geodetic GNSS and UAV Testing Facility)
+* [UAV_Research-CU-SBR](https://github.com/phisan-chula/UAV_Research)                                                                                                    บันทึกข้อมูลด้วย DJI Matrice 300 RTK with P1 45MP บริเวณพื้นที่สนามทดสอบจีเอ็นเอสเอสและยูเอวีสำหรับงานแผนที่ (Geodetic GNSS and UAV Testing Facility) (2022)
 
 
 
