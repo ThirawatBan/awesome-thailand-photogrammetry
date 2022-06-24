@@ -1,7 +1,7 @@
 # Analysis of UAV dual camera system for 3D mapping and building modeling
 การวิเคราะห์ระบบกล้องคู่ยูเอวีเพื่อใช้ทำแผนที่และแบบจำลองอาคาร โครงงานทางวิศวกรรมประจำปีการศึกษา 2562 ของนายถิรวัฒน์ และ รศ.ดร.ไพศาล สันติธรรมนนท์ ภาควิชาวิศวกรรมสำรวจ คณะวิศวกรรมศาสตร์ จุฬาลงกรณ์มหาวิทยาลัย 
 
-![Screenshot (300)](https://github.com/ThirawatBan/BEng_seniorproject/blob/main/Capture.PNG)
+![Dual Camera](https://github.com/ThirawatBan/awesome-thailand-photogrammetry/blob/main/UAV_DualCamera_B.Eng/image/camera_rig_image.png)
 
 ----
 
