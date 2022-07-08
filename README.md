@@ -13,4 +13,4 @@
 
 
 ## ซอฟต์แวร์ (Software)
-* [pyBundleBlock](https://github.com/phisan-chula/pyBundleBlock) ซอฟต์แวร์ไลบรารีสำหรับช่วยในการคำนวณ Bundle Block Adjustment (BBA) (P.Santitamnont, 2022)
+* [pyBundleBlock](https://github.com/phisan-chula/pyBundleBlock) ซอฟต์แวร์ไลบรารีสำหรับช่วยในการคำนวณ Bundle Block Adjustment (BBA) by P.Santitamnont (2022)
